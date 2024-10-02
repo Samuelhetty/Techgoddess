@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://twitter.com/henriettaonoge" target="blank">
-    <img src="https://img.shields.io/twitter/follow/your_twitter_handle?logo=twitter&style=for-the-badge" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/@henriettaonoge?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
   <a href="https://www.tiktok.com/@henriettasamuel1 target="blank">
     <img src="https://img.shields.io/badge/TikTok-FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
@@ -36,7 +36,7 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/henrietta-samuel/" target="blank">
+  <a href="https://linkedin.com/in/henrietta-samuel-3229a3252/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://twitter.com/henriettaonoge" target="blank">
