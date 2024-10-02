@@ -7,14 +7,14 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Samuelhetty&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="rf-gul" style="width: 800px;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Samuelhetty&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="samuelhetty" style="width: 800px;" />
   </a>
 </p>
 
 
 <p align="center">
   <a href="https://twitter.com/henriettaonoge" target="blank">
-    <img src="https://img.shields.io/twitter/follow/@henriettaonoge?logo=twitter&style=for-the-badge" alt="Twitter" />
+    <img src="https://img.shields.io/twitter/follow/henriettaonoge?logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
   <a href="https://www.tiktok.com/@henriettasamuel1 target="blank">
     <img src="https://img.shields.io/badge/TikTok-FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
